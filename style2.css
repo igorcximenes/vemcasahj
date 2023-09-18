@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
+
+.box {
+  font-size: 20px;
+  color: white;
+  height: 250px;
+  width: 500px;
+  border-radius: 10px;
+  background: #191919;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
